@@ -1,5 +1,5 @@
 #include <iostream>
-#include <cstring> // dùng cho hàm strcmp
+#include <cstring> 
 
 using namespace std;
 
